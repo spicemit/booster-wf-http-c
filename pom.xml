@@ -185,6 +185,9 @@
     </profile>
     <profile>
       <id>openshift-it</id>
+      <activation>
+        <activeByDefault>true</activeByDefault>
+      </activation>
       <build>
         <plugins>
           <plugin>
