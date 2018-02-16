@@ -209,7 +209,6 @@
           </plugin>
         </plugins>
       </build>
-      <activation/>
     </profile>
 
   </profiles>
