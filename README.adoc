@@ -58,3 +58,4 @@ $ mvn clean fabric8:deploy -Popenshift
 
 == More Information
 You can learn more about this booster and rest of the WildFly Swarm runtime in the link:http://appdev.openshift.io/docs/wf-swarm-runtime.html[WildFly Swarm Runtime Guide].
+
